@@ -1,4 +1,4 @@
-# veter
+# veter 
 import time
 import random
 import sys # Для sys.exit() и sys.stdout.write
